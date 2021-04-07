@@ -166,3 +166,5 @@ body
     list-style: none;
     font-size: 13px
 }
+.container article .resources ul li a
+{ color: darkcyan;text-decoration:none }
